@@ -90,6 +90,19 @@ Update database credentials in your Flask config file
 
 ### 5️⃣ Run the Application
 ```
+python create_admin.py
 python app.py
 ```
 
+## Screenshots
+<img width="1723" height="876" alt="Screenshot 2025-11-07 234126" src="https://github.com/user-attachments/assets/b0fe7ffe-1f49-4413-9ca8-7271a798aee1" />
+
+
+
+
+<img width="1576" height="971" alt="Screenshot 2025-11-07 234155" src="https://github.com/user-attachments/assets/df0284f7-a762-4dea-879d-b43d50e3414b" />
+
+<img width="1385" height="1000" alt="Screenshot 2025-11-07 234302" src="https://github.com/user-attachments/assets/af6aff5c-6026-4610-8780-8644677228ec" />
+<img width="1667" height="896" alt="Screenshot 2025-11-07 234338" src="https://github.com/user-attachments/assets/a2506776-3902-434f-b6c6-f235a6396f03" />
+<img width="1649" height="823" alt="Screenshot 2025-11-07 234358" src="https://github.com/user-attachments/assets/991fb1dc-9c24-4dab-bbc5-40517b082515" />
+<img width="1605" height="923" alt="Screenshot 2025-11-07 234514" src="https://github.com/user-attachments/assets/19312269-d635-44d9-ba44-e60400c6de0b" />
