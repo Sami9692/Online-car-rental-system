@@ -66,3 +66,22 @@ This project aims to **automate manual car rental operations** and provide a **d
 git clone https://github.com/<your-username>/online-car-rental-system.git
 cd online-car-rental-system
 
+2️⃣ Create and Activate Virtual Environment
+python -m venv venv
+venv\Scripts\activate    # For Windows
+source venv/bin/activate # For Linux/Mac
+
+3️⃣ Install Required Dependencies
+pip install -r requirements.txt
+
+4️⃣ Configure the Database
+
+Create a MySQL database (e.g., car_rental_db)
+
+Import the provided SQL file if available
+
+Update database credentials in your Flask config file (e.g., app.py or config.py)
+
+5️⃣ Run the Application
+python app.py
+
